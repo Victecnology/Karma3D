@@ -1,0 +1,23 @@
+#chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    width: 280px;
+    height: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  #output {
+    height: 350px;
+    padding: 10px;
+    overflow-y: scroll;
+  }
+  
+  #input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+  }
+  

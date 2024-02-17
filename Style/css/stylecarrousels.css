@@ -1,0 +1,26 @@
+#carouselExampleDark{
+    height: 500px;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    margin: auto; 
+    border: 0px solid;
+    border-radius: 40px;
+    filter: drop-shadow(0px 5px 10px #0615eece);
+}
+
+
+#carouselExampleDark img{
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-inner {
+    height: 100%;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
